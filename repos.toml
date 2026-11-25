@@ -1,1 +1,3 @@
-repos = []
+repos = [
+    { repo = "dsleo/coop", default_budget = 100000 },
+]
