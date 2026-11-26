@@ -1,3 +1,4 @@
 repos = [
     { repo = "dsleo/coop", default_budget = 100000 },
+    { repo = "dsleo/leanage", default_budget = 100000 },
 ]
